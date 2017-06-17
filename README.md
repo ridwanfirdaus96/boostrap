@@ -1,0 +1,2 @@
+# boostrap
+for job Gurisa
