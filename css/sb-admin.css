@@ -225,3 +225,15 @@ ul.alert-dropdown {
 .panel-yellow > a:hover {
     color: #df8a13;
 }
+.navbar-brand{
+    padding:0px;
+}
+.navbar-brand:focus,.navbar-brand:hover{
+    text-decoration:none
+}.navbar-brand>img{
+    height:50px;width:50px
+}
+img{
+    height: 50px;
+    width: 50px;
+}
